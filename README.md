@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Manu</h1>
-<h3 align="center">A Systems Engineer from Jerez, Spain</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Manu, a Systems Engineer from Jerez, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuasir&label=Profile%20views&color=0e75b6&style=flat" alt="manuasir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuasir" alt="manuasir" /></a> </p>
 
-- 🔭 I’m currently working on [The Hotels Network as a SysAdmin/SRE/DevOps Engineer](www.thehotelsnetwork.com)
+- 🔭 I’m currently working at [The Hotels Network as a SysAdmin/SRE/DevOps Engineer](https://www.thehotelsnetwork.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
